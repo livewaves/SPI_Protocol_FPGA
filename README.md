@@ -1,0 +1,3 @@
+<div style="text-align: justify;">
+The GitHub repository offers a comprehensive implementation of the Serial Peripheral Interface (SPI) protocol specifically tailored for the Arty S7 board. Designed to facilitate seamless integration and communication with various peripherals, the repository's codebase is highly adaptable, allowing users to easily modify it to accommodate specific package details of their peripherals. With its versatility and flexibility, developers can confidently utilize this implementation to establish efficient SPI communication within their projects, leveraging the capabilities of the Arty S7 board to their fullest potential.
+</div>
